@@ -9,3 +9,7 @@ if_else.py
 
 cycle_01.py
 Вывод summa=55
+
+aryphmetic.op.py
+Ввод 12345
+Вывод 15
