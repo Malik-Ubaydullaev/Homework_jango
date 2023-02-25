@@ -13,3 +13,7 @@ cycle_01.py
 arithmetic_op.py
 Ввод 12345
 Вывод 15
+
+function_0.py
+Ввод 5 10
+Вывод 10
